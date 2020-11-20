@@ -19,5 +19,11 @@ public class ShipmentServiceImpl implements IShipment {
 		// TODO Auto-generated method stub
 		return false;
 	}
+	
+	@Override
+	public boolean findShipment() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 
 }

@@ -8,4 +8,6 @@ public interface IShipment {
 	
 	public boolean getShipment();
 	
+	public boolean findShipment();
+	
 }
